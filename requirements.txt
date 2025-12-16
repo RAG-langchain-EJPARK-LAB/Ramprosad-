@@ -1,0 +1,22 @@
+langchain
+langchain-core
+langchain-community
+langchain-openai
+pypdf
+pyMupdf
+faiss-cpu
+chromadb
+openai
+sentence-transformers
+langchain-groq
+python-dotenv
+pip install -U \
+python-dotenv \
+langchain \
+langchain-openai \
+langchain-community \
+langchain-core \
+langchain-text-splitters \
+langchain-chroma \
+langchain-teddynote \
+
